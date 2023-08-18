@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+srv-gw-infinity
+build/bin/infi-srv-gw
+/tmp/
+test
+main_*
+build
